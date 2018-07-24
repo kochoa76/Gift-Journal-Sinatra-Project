@@ -1,2 +1,2 @@
-web: bundle exec rackup -P $PORT
-release: bundle exec rake db:migrate 
+web: bundle exec thin start -p $PORT
+release: bundle exec rake db:migrate
