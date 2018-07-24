@@ -8,6 +8,7 @@ gem 'require_all'
 gem 'thin'
 gem 'bcrypt'
 gem 'rails_12factor'
+gem 'pg', "0.20"
 
 group :development do
   gem 'sqlite3'
