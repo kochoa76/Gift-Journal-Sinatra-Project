@@ -7,6 +7,7 @@ gem 'rake'
 gem 'require_all'
 gem 'thin'
 gem 'bcrypt'
+gem 'rails_12factor'
 
 group :development do
   gem 'sqlite3'
