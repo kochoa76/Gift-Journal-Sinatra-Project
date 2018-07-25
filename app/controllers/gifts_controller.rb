@@ -1,3 +1,3 @@
-class GiftController < ApplicationController
+class GiftsController < ApplicationController
 
 end
