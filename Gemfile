@@ -8,6 +8,7 @@ gem 'require_all'
 gem 'thin'
 gem 'foreman'
 gem 'bcrypt'
+ruby '2.3.1'
 gem 'dotenv'
 gem 'rails_12factor'
 gem 'pg', "0.20"
